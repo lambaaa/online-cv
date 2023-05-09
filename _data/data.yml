@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mert BUYURAN
+    tagline: Computer Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: buyuran.mert@gmail.com
     phone: 530 404 0502
-    timezone: America/Cancun Timezone
-    citizenship:
+    timezone: UTC+03:00
+    citizenship: Turkish
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: mert-buyuran-765029234
+    xing: 
+    github: lambaaa
     telegram: # add your nickname without '@' sign
-    gitlab:
+    kariyernet: https://www.kariyer.net/ozgecmis-goruntule/?cvId=INEvF4auFgpnUvWdkyQAig%3D%3D!e!
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,13 +32,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Turkish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
