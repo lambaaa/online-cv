@@ -49,7 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü’nü yeni bitirmiş bir Bilgisayar Mühendisiyim. 
+      Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü’nü yeni bitirmiş bir Bilgisayar Mühendisiyim.
       Lisans eğitimi süreci ,Staj süreci, Yurtdışı Eğitim Süreci ve çalışma hayatımda edindiğim bilgileri kullanarak Edindiğim bilgiler ile Değer katabileceğim ve bana değer katabilecek bir çalışma ortamı arıyorum.
       Uzmanlık Alanları: SQL, T-SQL, C#, Java, ASP.net, 
       Dökümantasyon Akedemik: Derin Öğrenme, Veri Tabanı Yönetimi, Görsel Programlama, Python,c++, Javascript, Unity, Matlab, HTML, TypeScript, NoSQL, Css, Markdown, Bootstrap alanlarında Proje çalışmaları yaptım.
@@ -76,10 +76,8 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-          Preventive Maintenance with machine learning
-            - dododod
-          Student Device Loan Tracking Program
-            - dododod
+            -Preventive Maintenance with machine learning
+            -Student Device Loan Tracking Program
 experiences:
     title: Experiences
     info:
@@ -119,7 +117,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Preventive Maintenance with machine learning
-        link: "#hook"
+        link: "./preventive"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
