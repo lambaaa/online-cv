@@ -52,7 +52,7 @@ career-profile:
       Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü’nü yeni bitirmiş bir Bilgisayar Mühendisiyim.
       Lisans eğitimi süreci ,Staj süreci, Yurtdışı Eğitim Süreci ve çalışma hayatımda edindiğim bilgileri kullanarak Edindiğim bilgiler ile Değer katabileceğim ve bana değer katabilecek bir çalışma ortamı arıyorum.
       Uzmanlık Alanları: SQL, T-SQL, C#, Java, ASP.net, 
-      Dökümantasyon Akedemik: Derin Öğrenme, Veri Tabanı Yönetimi, Görsel Programlama, Python,c++, Javascript, Unity, Matlab, HTML, TypeScript, NoSQL, Css, Markdown, Bootstrap alanlarında Proje çalışmaları yaptım.
+      Dökümantasyon & Akedemik: Derin Öğrenme, Veri Tabanı Yönetimi, Görsel Programlama, Python,c++, Javascript, Unity, Matlab, HTML, TypeScript, NoSQL, Css, Markdown, Bootstrap alanlarında Proje çalışmaları yaptım.
 education:
     title: Education
     info:
@@ -116,8 +116,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Preventive Maintenance with machine learning
-        link: "./preventive"
+      - title: Preventive Maintenance with machine learning 01.2021
+        link: "./details/preventive"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -136,31 +136,24 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 projectsD:
-    title: Preventive Maintenance with machine learning
+    title: Preventive Maintenance With Machine Learning
     intro: >
-      Preventive Maintenance with machine learning
-      Preventive Maintenance with machine learning
-      Preventive Maintenance with machine learning
+      The purpose of this project is to analyse data sets of frequent stops in endustrial machines and prepare a preventive maintenance plan using machine learning to analyse and predict outcomes.
+      the data was split %70 learning %25 test. the learning was first done using matlab then secondarly done using tensorflow library for python.
+      Datasets are gathered and cleaned using oracle sql developer. we were able to predict when frequent equipment failure and unplanned machine downtime might begin and end. 
     assignments:
       - title: Preventive Maintenance with machine learning
         link: "./preventive"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: Preventive Maintenance with machine learning
+oss:
+    title: References
+    intro: >
+      People that can tell you about me.
+    contributions:
+      - title: Murat
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Bilgi İşlem Müdürü"
 
-      - title: Preventive Maintenance with machine learning
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Preventive Maintenance with machine learning
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Preventive Maintenance with machine learning
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 
