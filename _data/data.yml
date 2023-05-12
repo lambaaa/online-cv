@@ -135,7 +135,32 @@ projects:
       - title: Preventive Maintenance with machine learning
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projectsD:
+    title: Preventive Maintenance with machine learning
+    intro: >
+      Preventive Maintenance with machine learning
+      Preventive Maintenance with machine learning
+      Preventive Maintenance with machine learning
+    assignments:
+      - title: Preventive Maintenance with machine learning
+        link: "./preventive"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
+      - title: Preventive Maintenance with machine learning
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Preventive Maintenance with machine learning
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Preventive Maintenance with machine learning
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Preventive Maintenance with machine learning
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 

@@ -1,5 +1,5 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
+{% assign projectsD = site.data.data.projectsD %}
+{% if projectsD %}
 <section class="section projects-section">
 
   <h2 class="section-title">
@@ -7,16 +7,16 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    {{ projectsD.title }}
   </h2>
 
-  {% if projects.intro %}
+  {% if projectsD.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+      <p>{{ projectsD.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
+  {% for project in projectsD.assignments %}
     <div class="item">
 
       <span class="project-title">
