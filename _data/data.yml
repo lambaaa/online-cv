@@ -49,12 +49,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü’nü yeni bitirmiş bir Bilgisayar Mühendisiyim. 
+      Lisans eğitimi süreci ,Staj süreci, Yurtdışı Eğitim Süreci ve çalışma hayatımda edindiğim bilgileri kullanarak Edindiğim bilgiler ile Değer katabileceğim ve bana değer katabilecek bir çalışma ortamı arıyorum.
+      Uzmanlık Alanları: SQL, T-SQL, C#, Java, ASP.net, 
+      Dökümantasyon Akedemik: Derin Öğrenme, Veri Tabanı Yönetimi, Görsel Programlama, Python,c++, Javascript, Unity, Matlab, HTML, TypeScript, NoSQL, Css, Markdown, Bootstrap alanlarında Proje çalışmaları yaptım.
 education:
     title: Education
     info:
@@ -78,48 +76,41 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Preventive Maintenance with machine learning
+            - dododod
+          Student Device Loan Tracking Program
+            - dododod
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Development Engineer
+        time: 08.2022 - Present
+        company: PROFESYONELX, Bursa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          With my time in this company, i have participated in many projects, especially in the textile and marble sectors.
+          Theese include, but not limited to: programming, planning, designing, Testing and Maintaining new solutions.
+            - Shipments and Packaging modules development
+            - Code Documentation website using md, html, cs, js
+            - Special Reports and Various Dashboards using Devexpress report & Dashboard designers
+            - Factory Production processes and Tracking theese processes.
+            - Confirmation of orders or shipments modules.
+            - Return or discard modules for products.
+            - Work orders
+      - role: Intern engineer
         time: 2014 - 2015
-        company: Google, London
+        company: Artı Ve Artı Teknoloji Hizmetleri, Bursa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Hardware-oriented internship was done on network systems and security policies.
+            - Security Systems
+            - NAS RAID
+      - role: Software Intern
+        time: 08.2021 - 09.2021
+        company: IFS Türkiye, Kocaeli
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Software internship was done at IFS Erp R&D Department. On-the-job training was received on IFS ERP modules.
+          Customization, development and reporting works were carried out.
+            - General ERP
+            - PLSQL Oracle
 projects:
     title: Projects
     intro: >
@@ -127,7 +118,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Preventive Maintenance with machine learning
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -139,11 +130,11 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Student Device Loan Tracking Program
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Preventive Maintenance with machine learning
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
@@ -166,28 +157,6 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -207,6 +176,6 @@ skills:
       - name: Java
         level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Devexpress
+        level: 40%
 
