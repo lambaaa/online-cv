@@ -49,35 +49,47 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Dumlupınar Üniversitesi Bilgisayar Mühendisliği bölümü’nü yeni bitirmiş bir Bilgisayar Mühendisiyim.
-      Lisans eğitimi süreci ,Staj süreci, Yurtdışı Eğitim Süreci ve çalışma hayatımda edindiğim bilgileri kullanarak Edindiğim bilgiler ile Değer katabileceğim ve bana değer katabilecek bir çalışma ortamı arıyorum.
-      Uzmanlık Alanları: SQL, T-SQL, C#, Java, ASP.net, 
-      Dökümantasyon & Akedemik: Derin Öğrenme, Veri Tabanı Yönetimi, Görsel Programlama, Python,c++, Javascript, Unity, Matlab, HTML, TypeScript, NoSQL, Css, Markdown, Bootstrap alanlarında Proje çalışmaları yaptım.
+      I am a computer engineer who is looking for a workplace to add value and improve myself.
+      Areas of expertise: SQL, T-SQL, C#, Java, ASP.net, 
+      Worked on: Deep learning, Machine learning, Database management & administration, Visual Design & programming, Python, c++, Javascript, Unity, Matlab, HTML, Css, TypeScript, NoSQL, Markdown, Bootstrap
 education:
     title: Education
     info:
       - degree: Computer Science
-        university: Panstwowa Wyzsza Szkola Zawodowa w Nysie
+        university: University of Applied Sciences in Nysa, POLAND
         time: 03-2020 - 06-202
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I have studied abroad for 1 term with Erasmus+ program. 
+          In poland i had many oppurtunities to improve both my social and business english. 
+          I also improved and gained a new persvective about computer science. Some of these topic include:
+            - .Net Programming
+            - Operating Systems
+            - Information Systems
+            - Programming in java
+            - Computer Graphics
       - degree: Computer Engineering
         university: Dumlupınar University
         time: 9.2016 - 03.2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            -Preventive Maintenance with machine learning
-            -Student Device Loan Tracking Program
+          I have studied an joined many classes & project while studying at Dumlupınar University. Some of these topics include:
+            -Algorithms and Programming
+            -Visual Programming & Advanced Visual Programming
+            -C Programming
+            -Logic Design
+            -Circuit Theories
+            -Computer Graphics
+            -Internet Programming
+            -Microprocessors
+            -Algorithm Analysis
+            -Database Management Systems & Advanced Database Systems
+            -Information Retrieval Systems Design & Projects
+            -Computer Network Management
+            -Distributed Systems 
+            -Machine Learning
+
+
+
+
 experiences:
     title: Experiences
     info:
@@ -112,9 +124,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      here is the list of some of the projects i have worked on so far:
     assignments:
       - title: Preventive Maintenance with machine learning 01.2021
         link: "./details/preventive"
