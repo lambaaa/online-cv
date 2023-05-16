@@ -20,7 +20,7 @@ sidebar:
     github: lambaaa
     telegram: # add your nickname without '@' sign
     kariyernet: Mert Buyuran
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: Resume Printable Format
 
     languages:
       title: Languages
@@ -62,7 +62,7 @@ education:
           I have studied abroad for 1 term with Erasmus+ program. 
           In poland i had many oppurtunities to improve both my social and business english. 
           I also improved and gained a new persvective about computer science. Some of these topic include:
-            - .Net Programming
+            - Net Core Programming
             - Operating Systems
             - Information Systems
             - Programming in java
@@ -128,23 +128,24 @@ projects:
     assignments:
       - title: Preventive Maintenance with machine learning 01.2021
         link: "./details/preventive"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "placeholder"
 
-      - title: DevStudio
+      - title: Student Project Equipment Loan Tracking Software
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "placeholder"
 
-      - title: Tempo
+      - title: Code Documentation Website (End user and Advanced)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "placeholder"
 
-      - title: Student Device Loan Tracking Program
+      - title: IFS Erp System Customization
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "placeholder"
 
-      - title: Preventive Maintenance with machine learning
+      - title: Marble & Textile
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "placeholder"
+        
 projectsD:
     title: Preventive Maintenance With Machine Learning
     intro: >
