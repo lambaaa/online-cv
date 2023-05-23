@@ -155,16 +155,20 @@ projectsD:
     assignments:
       - title: Preventive Maintenance with machine learning
         link: "./preventive"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Placeholder."
 oss:
     title: References
     intro: >
       People that can tell you about me.
     contributions:
-      - title: Murat BUYURAN
+      - title: Murat BUYURAN - IT Manager
         link: "#"
-        tagline: "Bilgi İşlem Müdürü"
-
+        tagline: "530 668 73 98"
+        
+      - title: Umut Gedik - Data and Business Intelligence Specialist
+        link: "#"
+        tagline: "554 222 97 91"
+        
 skills:
     title: Skills &amp; Proficiency
 
