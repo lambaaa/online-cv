@@ -131,19 +131,19 @@ projects:
         tagline: "01.2021"
 
       - title: Student Project Equipment Loan Tracking Software
-        link: "#"
+        link: "./details/Loan"
         tagline: "2021"
 
       - title: Code Documentation Website (End user and Advanced)
-        link: "#"
+        link: "./details/Documentation"
         tagline: "2023"
 
       - title: IFS Erp System Customization
-        link: "#"
+        link: "./details/Erp"
         tagline: "2022"
 
       - title: Marble & Textile Resource Planning Improvements
-        link: "#"
+        link: "./details/Textile"
         tagline: "2023"
         
 projectsD:
