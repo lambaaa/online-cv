@@ -126,25 +126,25 @@ projects:
     intro: >
       here is the list of some of the projects i have worked on so far:
     assignments:
-      - title: Preventive Maintenance with machine learning 01.2021
+      - title: Preventive Maintenance with machine learning
         link: "./details/preventive"
-        tagline: "placeholder"
+        tagline: "01.2021"
 
       - title: Student Project Equipment Loan Tracking Software
         link: "#"
-        tagline: "placeholder"
+        tagline: "2021"
 
       - title: Code Documentation Website (End user and Advanced)
         link: "#"
-        tagline: "placeholder"
+        tagline: "2023"
 
       - title: IFS Erp System Customization
         link: "#"
-        tagline: "placeholder"
+        tagline: "2022"
 
       - title: Marble & Textile
         link: "#"
-        tagline: "placeholder"
+        tagline: "2023"
         
 projectsD:
     title: Preventive Maintenance With Machine Learning
@@ -161,7 +161,7 @@ oss:
     intro: >
       People that can tell you about me.
     contributions:
-      - title: Murat
+      - title: Murat BUYURAN
         link: "#"
         tagline: "Bilgi İşlem Müdürü"
 
